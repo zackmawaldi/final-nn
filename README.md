@@ -1,4 +1,4 @@
-# Final project: neural network
+# Final project: neural network [![final-nn](https://github.com/zackmawaldi/final-nn/actions/workflows/test.yml/badge.svg)](https://github.com/zackmawaldi/final-nn/actions/workflows/test.yml)
 
 ## Overview
 
